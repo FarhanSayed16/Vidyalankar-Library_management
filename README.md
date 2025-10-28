@@ -1,4 +1,4 @@
-# Ares - Smart Library Access System
+# Ares - Smart Library Access   -System
 
 A next-generation, seamless library access and analytics platform built with Firebase, ESP32, and Progressive Web Apps.
 
